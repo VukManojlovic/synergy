@@ -1,1 +1,2 @@
-# synergy-frontend
+# Synergy
+Task managmet project
